@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ykaterina
-- :smirk_cat: I'm a Test Automation Engineer looking to transition to web or mobile development
+- :smirk_cat: I'm a Test Automation Engineer looking to transition to a development role
 - 🌱 I’m currently learning web development by following The Odin Project Foundations path
 
 <!---
