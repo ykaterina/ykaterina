@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @ykaterina
-- :smirk_cat: I'm a Test Automation Engineer looking to transition to a development role
-- 🌱 I’m currently learning web development by following The Odin Project Foundations path
+👋 Hi, I’m @ykaterina
+:smirk_cat: I transitioned to Application Developer role from Test Automation Engineering
+🌱 I've completed The Odin Project Foundations path for web development
+🌱 I've also completed FreeCodeCamp's Backend Development and API Certification
+:office: At work, I'm currently creating ang mainting data pipelines on Airflow and creating queries in PostgreSQL and BigQuery
+:office: At work, I'm also writing codes in JavaScript(Node.js) as Cloud Functions (GCP)
+:sparkles: I am aspiring to be a Backend Developer! 
 
 My GitHub profile contains every project and exercise I've completed in my self-learning journey. They may be a bit messy so here's are some of my proudest works :)
 
