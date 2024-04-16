@@ -4,7 +4,6 @@
 - 🌱 I've also completed FreeCodeCamp's Backend Development and API Certification
 - :office: At work, I'm currently creating ang mainting data pipelines on Airflow and creating queries in PostgreSQL and BigQuery
 - :office: At work, I'm also writing codes in JavaScript(Node.js) as Cloud Functions (GCP)
-- :sparkles: I am aspiring to be a Backend Developer! 
 
 My GitHub profile contains every project and exercise I've completed in my self-learning journey. They may be a bit messy so here's are some of my proudest works :)
 
